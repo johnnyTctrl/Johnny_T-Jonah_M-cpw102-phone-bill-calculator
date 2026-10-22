@@ -1,7 +1,7 @@
 # Product Requirements
 
 **Team members:**
-
+Johnny T
 Translate the problem statement into requirements. Keep answers brief.
 
 ## User and goal
